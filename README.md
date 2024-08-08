@@ -8,9 +8,8 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
 
 
 # 1.Declaring a Vector in JavaScript
-```javascript
-let arr=new Array(n).fill(0);
 
+let arr=new Array(n).fill(0);
 
 # 2.Declaring a 2D Vector in JavaScript
 ```javascript
