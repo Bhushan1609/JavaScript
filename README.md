@@ -13,5 +13,5 @@ let arr=new Array(n).fill(0);
 ```
 # 2.Declaring a 2D Vector in JavaScript
 ```javascript
-let matrix=Array.from({length:n}, () => Array(m).fill(0) );
+let matrix=new Array(3 * n).fill(0).map(() => new Array(3 * n).fill(1));
 ```
