@@ -4,8 +4,8 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
 
 
 1.Declaring a Vector in JavaScript<br>
-2.Declaring a 2D Vector in JavaScript<br>\
-3.Pair in JavaScript<br\>
+2.Declaring a 2D Vector in JavaScript<br>
+3.Pair in JavaScript<br>
 
 
 # 1.Declaring a Vector in JavaScript
