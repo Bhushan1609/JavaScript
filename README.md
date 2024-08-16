@@ -6,6 +6,8 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
 1.Declaring a Vector in JavaScript<br>
 2.Declaring a 2D Vector in JavaScript<br>
 3.Pair in JavaScript<br>
+4.Remove last element in array<br>
+5.Add array to 2d arrray
 
 
 # 1.Declaring a Vector in JavaScript
@@ -43,4 +45,17 @@ class pair {
         this.second = second;
     }
 }
+```
+# 4.Remove last element in array
+```javascript
+
+arr.pop();
+
+```
+
+# 5.Add array to 2d arrray
+```javascript
+
+array.push([...array1]);
+
 ```
