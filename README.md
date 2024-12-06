@@ -63,7 +63,7 @@ array.push([...array1]);
 
 # 6.Set in JS
 
-```
+```javascript
 let st=new Set();//Declaration
 st.add(newArr[i]);//Add Data
 for(let i of st){//Iterate Over Set
