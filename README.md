@@ -8,6 +8,7 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
 3.Pair in JavaScript<br>
 4.Remove last element in array<br>
 5.Add array to 2d arrray
+6.Set in JS
 
 
 # 1.Declaring a Vector in JavaScript
@@ -57,5 +58,14 @@ arr.pop();
 ```javascript
 
 array.push([...array1]);
+
+```
+
+# 6.Set in JS
+
+```
+let st=new Set();//Declaration
+st.add(newArr[i]);//Add Data
+for(let i of st){//Iterate Over Set
 
 ```
