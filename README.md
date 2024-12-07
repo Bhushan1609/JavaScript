@@ -7,8 +7,9 @@ Welcome to my JavaScript learning repository! This repository contains my notes,
 2.Declaring a 2D Vector in JavaScript<br>
 3.Pair in JavaScript<br>
 4.Remove last element in array<br>
-5.Add array to 2d arrray
-6.Set in JS
+5.Add array to 2d arrray<br>
+6.Set in JS<br>
+7.Map in JS<br>
 
 
 # 1.Declaring a Vector in JavaScript
@@ -68,4 +69,16 @@ let st=new Set();//Declaration
 st.add(newArr[i]);//Add Data
 for(let i of st){//Iterate Over Set
 
+```
+
+
+# 7.Map in JS
+```javascript
+let map=new Map();
+
+mapp.has(i);
+mapp.set(i,mapp.get(i)+1);
+
+for(let [k,v] of mapp){//iterate
+}
 ```
